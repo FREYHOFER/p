@@ -1,0 +1,4 @@
+def carre(x):
+    y = x*x
+    return y
+def somecarres(
